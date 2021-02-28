@@ -5,7 +5,9 @@ function App() {
     <div className="App">
       <p>
         In this series we are going to learn building entire dashboard uing Rect
-        & Material design & Vuexy
+        & Material design & Vuexy 
+        Thanks for watching
+        
       </p>
     </div>
   );
